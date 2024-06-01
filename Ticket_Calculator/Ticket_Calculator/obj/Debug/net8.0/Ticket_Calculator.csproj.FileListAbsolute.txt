@@ -1,0 +1,15 @@
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\bin\Debug\net8.0\Ticket_Calculator.exe
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\bin\Debug\net8.0\Ticket_Calculator.deps.json
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\bin\Debug\net8.0\Ticket_Calculator.runtimeconfig.json
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\bin\Debug\net8.0\Ticket_Calculator.dll
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\bin\Debug\net8.0\Ticket_Calculator.pdb
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\obj\Debug\net8.0\Ticket_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\obj\Debug\net8.0\Ticket_Calculator.AssemblyInfoInputs.cache
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\obj\Debug\net8.0\Ticket_Calculator.AssemblyInfo.cs
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\obj\Debug\net8.0\Ticket_Calculator.csproj.CoreCompileInputs.cache
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\obj\Debug\net8.0\Ticket_Calculator.sourcelink.json
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\obj\Debug\net8.0\Ticket_Calculator.dll
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\obj\Debug\net8.0\refint\Ticket_Calculator.dll
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\obj\Debug\net8.0\Ticket_Calculator.pdb
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\obj\Debug\net8.0\Ticket_Calculator.genruntimeconfig.cache
+H:\code\Assignment\-dcit318-assignment1-ID\Ticket_Calculator\Ticket_Calculator\obj\Debug\net8.0\ref\Ticket_Calculator.dll
